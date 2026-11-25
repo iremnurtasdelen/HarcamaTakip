@@ -1,7 +1,7 @@
 from database import baglanti_kur
 
 
-# KATEGORİ EKLEME
+
 def kategori_ekle(kullanici_id):
 
     baglanti = baglanti_kur()
@@ -58,7 +58,7 @@ def kategori_ekle(kullanici_id):
     baglanti.close()
 
 
-# KATEGORİLERİ LİSTELEME
+
 def kategorileri_listele(kullanici_id):
 
     baglanti = baglanti_kur()
@@ -86,7 +86,7 @@ def kategorileri_listele(kullanici_id):
     baglanti.close()
 
 
-# KATEGORİ SİLME
+
 def kategori_sil(kullanici_id):
 
     baglanti = baglanti_kur()
@@ -167,7 +167,7 @@ def kategori_sil(kullanici_id):
     baglanti.close()
 
 
-# KATEGORİ GÜNCELLEME
+
 def kategori_guncelle(kullanici_id):
 
     baglanti = baglanti_kur()
