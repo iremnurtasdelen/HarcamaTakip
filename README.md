@@ -46,11 +46,13 @@ yönetilmesi amaçlanmıştır.
 - Genel gelir-gider raporlama
 - Bütçe oluşturma ve bütçe kontrolü
 
-# Veritabanı
+# Veritabanı Yönetimi
 
-Uygulama, verilerin saklanması ve yönetilmesi için
-Microsoft SQL Server kullanmaktadır.
+Uygulamada kullanıcı bilgileri, kategoriler, gelir-gider işlemleri
+ve bütçe kayıtları Microsoft SQL Server kullanılarak yönetilmektedir.
 
-# Geliştirici
+# Projenin Amacı
 
-Bilgisayar Mühendisliği Öğrencisi
+Bu projenin amacı Python programlama dili ve SQL kullanarak
+veritabanı bağlantısı, veri yönetimi, CRUD işlemleri,
+filtreleme ve raporlama konularında uygulamalı deneyim kazanmaktır.
